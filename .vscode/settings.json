@@ -25,5 +25,11 @@
     "[yaml]": {
         "editor.defaultFormatter": "redhat.vscode-yaml"
     },
-    "cSpell.words": []
+    "cSpell.words": [
+        "apimachinery",
+        "clientcmd",
+        "Clientset",
+        "kubeconfig",
+        "metav"
+    ]
 }
